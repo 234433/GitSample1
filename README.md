@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+# syoukai page
+
 ## 自己紹介
 ー名前:
 koDAfij
