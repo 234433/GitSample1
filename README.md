@@ -1,9 +1,9 @@
 ## 自己紹介
 名前
-ジャニクォーツ
+--ジャニクォーツ
 年齢
-２１３
+--２１３
 性別
-男
-xaaxxA,,Axxaz
-axxazzaz
+--男
+~xaaxxA,,Axxaz
+axxazzaz~
